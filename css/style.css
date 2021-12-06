@@ -1,0 +1,57 @@
+.color {
+    background-color: rgb(77, 148, 77);
+}
+
+.navbarfont {
+    font-size: 20px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.fundo {
+    background-color:rgb(124, 184, 124) ;
+}
+
+.paddingform {
+    padding: 5%;
+}
+
+.formajusts {
+    padding: 15%;
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(69, 155, 167);
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+
+h3 {
+    padding-bottom: 2%;
+    text-align: center;
+    color: rgb(73, 187, 149);
+}
+
+.margin {
+    margin: 5%;
+}
+
+.border {
+    border-radius: 20px;
+}
+
+.animation {
+    cursor: pointer;
+}
+
+.animation img{
+    -webkit-transition: all 0.7s ease;
+    transition: all 0.7s ease;
+  }
+  .animation img:hover {
+    -webkit-transform:scale(1.1);
+    transform:scale(1.1);
+  }
